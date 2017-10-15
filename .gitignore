@@ -5,7 +5,7 @@
 .settings
 .springBeans
 
-.idea
+.idea/*
 *.iws
 *.iml
 *.ipr

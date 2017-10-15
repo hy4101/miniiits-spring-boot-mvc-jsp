@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>迷你科技</title>
 </head>
 <body>
 <center>
@@ -17,7 +17,9 @@
         <div>
             获取更多
         </div>
-       <a href="http://www.miniits.com/article/springBoot.html"> <center>Spring Boot 整合内容</center></a>
+        <a href="http://www.miniits.com/article/springBoot.html">
+            <center>Spring Boot 整合内容</center>
+        </a>
     </div>
 </center>
 </body>
